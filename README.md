@@ -11,7 +11,7 @@ Frontend: HTML, CSS, JavaScript
 Backend: PHP (o el lenguaje que uses)
 Base de datos: MySQL (o la base de datos que uses)
 Cómo Usar
-Clona el repositorio: git clone https://github.com/tu-usuario/sistema-de-notas.git
+
 Navega al directorio del proyecto: cd sistema-de-notas
 Configura la base de datos y ajusta los archivos de configuración según sea necesario.
 Inicia el servidor local y accede a la aplicación desde tu navegador.
